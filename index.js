@@ -1,3 +1,3 @@
-const f = (a, b) => a + b;
+const f = (a, c) => a + c;
 
 f(1, 3);
